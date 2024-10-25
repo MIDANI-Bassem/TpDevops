@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.tpdevops.TpDevopsApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-24T11:52:54" hostname="21SE41-1RBVVD3" time="0.502">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.tpdevops.TpDevopsApplicationTests" time="0.502"/>
+  <system-out><![CDATA[13:52:53.173 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.tpdevops.TpDevopsApplicationTests]: TpDevopsApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+13:52:53.278 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.tpdevops.TpDevopsApplication for test class com.example.tpdevops.TpDevopsApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.4)
+
+2024-10-24T13:52:53.558+02:00  INFO 15272 --- [TpDevops] [    Test worker] c.e.tpdevops.TpDevopsApplicationTests    : Starting TpDevopsApplicationTests using Java 17.0.12 with PID 15272 (started by bmidani2024 in C:\Users\bmidani2024\Documents\workspace_BM\TpDevops)
+2024-10-24T13:52:53.559+02:00  INFO 15272 --- [TpDevops] [    Test worker] c.e.tpdevops.TpDevopsApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-10-24T13:52:54.306+02:00  INFO 15272 --- [TpDevops] [    Test worker] c.e.tpdevops.TpDevopsApplicationTests    : Started TpDevopsApplicationTests in 0.923 seconds (process running for 1.744)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
